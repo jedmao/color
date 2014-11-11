@@ -1,4 +1,3 @@
-color-ts
-========
+# jedmao-color
 
-TypeScript color library
+TypeScript color library, by [Jed Mao](https://github.com/jedmao).

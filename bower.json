@@ -1,0 +1,30 @@
+{
+  "name": "jedmao-color",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jedmao/color",
+  "authors": [
+    "Jed Mao <jedmao@outlook.com>"
+  ],
+  "description": "TypeScript color library",
+  "main": "dist/Color.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "color",
+    "colour",
+    "css",
+    "typescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "dt-chai": "~1.7.2",
+    "dt-mocha": "~1.9.0"
+  }
+}

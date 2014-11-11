@@ -1,0 +1,14 @@
+.*
+*.sln*
+*.suo
+bower.json
+gulpfile.js
+tslint.json
+bower_components/dt-chai
+bower_components/dt-mocha
+coverage/
+dist/d.ts/
+js/test/
+lib/
+tasks/
+test/
